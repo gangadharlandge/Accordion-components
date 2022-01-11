@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    align-items: center;
+    background-color: lightslategrey;
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 34px
+}
+/* .ques{
+    
+    align-items: center;
+    width: 40%;
+/* } */
+.ans{
+    right: 10px;
+    margin-left: 35px;
+} 
